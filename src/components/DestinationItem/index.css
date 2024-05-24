@@ -1,0 +1,20 @@
+.destination-container {
+  display: inline-block;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.image {
+  width: 35%;
+  padding: 10px;
+  padding-bottom: 0px;
+}
+
+.name {
+  color: #0f172a;
+  font-family: 'Roboto';
+}
